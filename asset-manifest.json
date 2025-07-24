@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sparkboardv2.0/static/css/main.9e9bd23e.css",
+    "main.js": "/sparkboardv2.0/static/js/main.3585726b.js",
+    "index.html": "/sparkboardv2.0/index.html",
+    "main.9e9bd23e.css.map": "/sparkboardv2.0/static/css/main.9e9bd23e.css.map",
+    "main.3585726b.js.map": "/sparkboardv2.0/static/js/main.3585726b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e9bd23e.css",
+    "static/js/main.3585726b.js"
+  ]
+}
