@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sparkboardv2.0/static/css/main.9e9bd23e.css",
-    "main.js": "/sparkboardv2.0/static/js/main.3585726b.js",
+    "main.css": "/sparkboardv2.0/static/css/main.7a8da0d5.css",
+    "main.js": "/sparkboardv2.0/static/js/main.182619df.js",
     "index.html": "/sparkboardv2.0/index.html",
-    "main.9e9bd23e.css.map": "/sparkboardv2.0/static/css/main.9e9bd23e.css.map",
-    "main.3585726b.js.map": "/sparkboardv2.0/static/js/main.3585726b.js.map"
+    "main.7a8da0d5.css.map": "/sparkboardv2.0/static/css/main.7a8da0d5.css.map",
+    "main.182619df.js.map": "/sparkboardv2.0/static/js/main.182619df.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e9bd23e.css",
-    "static/js/main.3585726b.js"
+    "static/css/main.7a8da0d5.css",
+    "static/js/main.182619df.js"
   ]
 }
