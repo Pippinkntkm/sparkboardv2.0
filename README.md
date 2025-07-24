@@ -1,5 +1,7 @@
 # SparkBoard Website 2.0
 
+<!-- Trigger redeploy: public repo -->
+
 A modern, responsive website built with React and Tailwind CSS. This project serves as a baseline for creating beautiful, professional web applications.
 
 ## Features
